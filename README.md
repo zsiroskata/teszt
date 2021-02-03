@@ -1,2 +1,2 @@
 # teszt
-ez egy teszt agit tanuláshoz
+ez egy teszt a git tanuláshoz
